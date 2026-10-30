@@ -11,6 +11,6 @@ I'm a Computer Science student specializing in **Cybersecurity** at Multimedia U
 - ☁️ Virtualization & Cloud Technologies
 
 ## Connect with Me
-- **Medium**: https://medium.com/@jasontan21
-- **LinkedIN**: https://www.linkedin.com/in/jasontanjiasheng/
-- **X**: https://x.com/Jason_Tan021
+- **Medium:** https://medium.com/@jasontan21
+- **LinkedIn:** https://www.linkedin.com/in/jasontanjiasheng/
+- **X:** https://x.com/Jason_Tan021
