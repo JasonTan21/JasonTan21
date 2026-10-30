@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jason 👋
 
-<!--
-**JasonTan21/JasonTan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in **Cybersecurity** at Multimedia University (MMU), passionate about ethical hacking, penetration testing, and emerging technologies. With hands-on experience in system engineering, IT infrastructure, and software development, I enjoy solving complex problems, exploring security vulnerabilities, and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- 🔐 Cybersecurity & Ethical Hacking
+- 🛡️ Penetration Testing & Threat Detection
+- 🌐 Networking & System Administration
+- 💻 Software Development & Automation
+- ☁️ Virtualization & Cloud Technologies
+
+### Connect with Me
+- MEDIUM: https://medium.com/@jasontan21
+- LINKEDIN: https://www.linkedin.com/in/jasontanjiasheng/
+- X: https://x.com/Jason_Tan021
