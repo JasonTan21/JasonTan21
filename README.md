@@ -13,4 +13,4 @@ I'm a Computer Science student specializing in **Cybersecurity** at Multimedia U
 ## Connect with Me
 - **Medium:** https://medium.com/@jasontan21
 - **LinkedIn:** https://www.linkedin.com/in/jasontanjiasheng/
-- **X:** https://x.com/Jason_Tan021
+- **X:** https://x.com/Jason_Tn21
