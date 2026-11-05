@@ -11,7 +11,7 @@ I'm a Computer Science student specializing in **Cybersecurity** at Multimedia U
 - ☁️ Virtualization & Cloud Technologies
 
 ## Connect with Me
-- **Email:** [jasontan21@gmail.com](mailto:jasontanjiasheng.cs@gmail.com)
+- **Email:** [jasontanjiasheng.cs@gmail.com](mailto:jasontanjiasheng.cs@gmail.com)
 - **Medium:** [jasontan21](https://medium.com/@jasontan21)
 - **GitHub:** [JasonTan21](https://github.com/JasonTan21)
 - **X:** [Jason_Tn21](https://x.com/Jason_Tn21)
