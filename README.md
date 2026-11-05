@@ -11,6 +11,10 @@ I'm a Computer Science student specializing in **Cybersecurity** at Multimedia U
 - ☁️ Virtualization & Cloud Technologies
 
 ## Connect with Me
-- **Medium:** https://medium.com/@jasontan21
-- **LinkedIn:** https://www.linkedin.com/in/jasontanjiasheng/
-- **X:** https://x.com/Jason_Tn21
+- **Email:** [jasontan21@gmail.com](mailto:jasontan21@gmail.com)
+- **Medium:** [jasontan21](https://medium.com/@jasontan21)
+- **GitHub:** [JasonTan21](https://github.com/JasonTan21)
+- **X:** [Jason_Tn21](https://x.com/Jason_Tn21)
+- **LinkedIn:** [Jason Tan](https://www.linkedin.com/in/jasontanjiasheng/)
+- **TryHackMe:** [theusefulhacker](https://tryhackme.com/p/theusefulhacker)
+- **Hack The Box:** [theusefulhacker](https://profile.hackthebox.com/profile/01a18884-e763-73cb-baef-7bdba7d054fa)
